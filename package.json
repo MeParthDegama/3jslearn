@@ -1,0 +1,25 @@
+{
+  "name": "3jslearn",
+  "version": "1.0.0",
+  "description": "I Am Learning ThreeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeParthDegama/3jslearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeParthDegama/3jslearn/issues"
+  },
+  "homepage": "https://github.com/MeParthDegama/3jslearn#readme",
+  "dependencies": {
+    "three": "^0.151.2"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
